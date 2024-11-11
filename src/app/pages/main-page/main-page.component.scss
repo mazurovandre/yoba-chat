@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  gap: 2rem;
+  height: 100%;
+}
+
+.left-side {
+  flex: 30% 1 1;
+  height: 100%;
+}
+
+.right-side {
+  flex: 60% 1 1;
+  height: 100%;
+}
